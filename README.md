@@ -1,6 +1,6 @@
 # chef-master
 
-A receipe  web app that allows you search for receipe of your choice.
+A recipe  web app that allows you search for recipe of your choice.
 
 Tools used:
 -Vanilla Javascript (ES6)
